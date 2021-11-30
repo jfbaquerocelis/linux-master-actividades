@@ -1,0 +1,3 @@
+z="
+";Iz='cd /';oz='head';Yz=''\''/et';xz='FILE';Hz='4/';fz='-d "';ez='/ls ';Vz=' $HO';hz='"/*/';iz=' | s';Kz='&& m';Gz='tc/U';yz='.BIG';Xz='dir=';Az='rm -';Jz='U4/ ';Sz='1 50';Dz='U4/';Cz='etc/';bz='fold';az=''\''';gz='$dir';cz='er=`';Lz='kdir';Tz=')) &';mz='-sor';wz='BIG_';Zz='c/U4';Oz='f "%';dz='/bin';nz='t | ';lz='ndom';tz=' 1G ';Rz='seq ';Mz=' $(p';Bz='rf /';Ez='mkdi';pz=' -1`';Qz='" $(';Nz='rint';sz='e -l';qz='fall';jz='ort ';rz='ocat';uz='$fol';Uz='& cd';Fz='r /e';kz='--ra';Wz='ME';vz='der/';Pz='02i ';
+eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$z$Iz$Cz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$z$Xz$Yz$Zz$az$z$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$z$qz$rz$sz$tz$uz$vz$wz$xz$yz"
