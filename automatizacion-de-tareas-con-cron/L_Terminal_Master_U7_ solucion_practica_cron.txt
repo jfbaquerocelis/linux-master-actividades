@@ -1,0 +1,37 @@
+Esta es la solución:
+
+1. Debes instalar python3 y git en tu sistema, dependiendo de la distribución será:
+
+en Arch o Manjaro:
+
+sudo pacman -S git python3
+
+en Debian, Ubuntu, Linux Mint:
+
+sudo apt-get install git python3
+
+en RHEL, Fedora, CentOS:
+
+sudo yum install git pythin3
+
+en suse u openSuse
+
+sudo zypper install git pythin3
+
+2. Luego debes clonar el repositorio y moverte al directorio motivate/motivate:
+
+git clone https://github.com/mubaris/motivate.git
+
+cd motivate/motivate
+
+3. Finalmente debes instalar el paquete con sudo y recargar el archivo .bashrc:
+
+sudo ./install.sh
+source ~/.bashrc
+
+4. Ahora edita tu crontab para añadir los dos nuevos valores (en este caso vamos a enviarlos a /tmp/ para saltarnos la prueba de envío de correo):
+
+30 6 * * * curl -H "Accept-Language: es" wttr.in/bogota\?1q > wttr_$(date +'%d-%m-%Y').txt
+55 7 * * 5 motivate > wttr_$(date +'%d-%m-%Y').txt
+
+5. Finalmente ejecuta el validador y debería funcionar sin problemas.
